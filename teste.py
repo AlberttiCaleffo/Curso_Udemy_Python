@@ -1,2 +1,6 @@
-numeros = (3, 4, 5, 2)
-print(*numeros)
+n = {'Albertti'}
+
+n.add('Ola')
+n.add('Mundo')
+n.update(('Farmacia', 1, 2, 4))
+print(n)
